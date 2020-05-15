@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+}
+#login{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    max-width: 350px;
+    height: 550px;
+    margin-top: -300px;
+    margin-left: -200px;
+    border-radius: 30px;
+    border: 2px solid rgb(182, 176, 176);
+    padding: 20px;
+}
+.cajita{
+    width: 99%;
+    border-radius: 5px;
+    border: 1px solid rgb(197, 195, 195);
+    margin-bottom: 5px;
+    padding: 5px 20px 5px 20px;
+    font-size: 1.5em;
+    box-sizing: border-box;
+    text-align: center;
+}
+.boton{
+    width: 99%;
+    height: 50px;
+    border-radius: 5px;
+    padding: 2px;
+    background-color: rgb(37, 36, 36);
+    border: 1px solid rgb(153, 149, 149);
+    color: rgb(165, 161, 161);
+    margin-top: 20px;
+    font-size: 24px;
+    
+}
+.imagen{
+    width:100%;
+    height: auto;
+}
